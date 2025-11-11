@@ -22,3 +22,50 @@ preprocessing:
   slang_normalization: true
   positive_keywords: ["hebat", "bagus", "menang"]
   negative_keywords: ["buruk", "kecewa", "gagal"]
+
+# Multi-layer Analytics Configuration
+layered_analytics:
+  enable_emotion: true
+  enable_aspect: true
+  enable_toxicity: true
+  enable_stance: true
+  enable_intent: true
+  
+  # Confidence thresholds
+  low_confidence_threshold: 0.60
+  toxicity_threshold: 0.50
+  
+  # Emotion labels (multi-label)
+  emotion_labels:
+    - "marah"
+    - "kecewa"
+    - "sedih"
+    - "senang"
+    - "bangga"
+    - "takut"
+  
+  # Aspect/Topic labels (multi-label)
+  aspect_labels:
+    - "manajemen"
+    - "pelatih"
+    - "pemain"
+    - "strategi"
+    - "wasit"
+    - "PSSI"
+    - "federasi"
+    - "fanbase"
+  
+  # Stance labels (single-label)
+  stance_labels:
+    - "pro"
+    - "kontra"
+    - "tidak_jelas"
+  
+  # Intent labels (single-label)
+  intent_labels:
+    - "pertanyaan"
+    - "komplain"
+    - "saran"
+    - "ajakan"
+    - "humor"
+    - "informasi"
