@@ -1,0 +1,9 @@
+text, predicted_sentiment, confidence_negatif, confidence_netral, confidence_positif
+"Indonesia memang hebat di piala dunia ini! Bangga sama timnas!", positif, 0.05, 0.10, 0.85
+"Kecewa banget sama timnas, performanya buruk sekali", negatif, 0.80, 0.15, 0.05
+"Timnas Indonesia harus evaluasi dan belajar dari kegagalan ini", netral, 0.20, 0.60, 0.20
+"PSSI bodoh! Manajemen berantakan, pemain juga payah!", negatif, 0.90, 0.05, 0.05
+"Tetap semangat dan dukung timnas, pasti bisa lebih baik", positif, 0.10, 0.05, 0.85
+"Biasa aja sih, namanya juga sepakbola ada menang ada kalah", netral, 0.30, 0.50, 0.20
+"Shin Tae-yong strategi terlalu defensif, kurang menyerang", negatif, 0.70, 0.20, 0.10
+"Luar biasa perjuangan anak bangsa! Salut untuk semua pemain!", positif, 0.05, 0.10, 0.85

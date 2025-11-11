@@ -1,0 +1,24 @@
+api_keys:
+  youtube: "YOUR_YOUTUBE_API_KEY"
+
+search_keywords:
+  - "Timnas Indonesia"
+  - "Piala Dunia"
+  - "Sepakbola Indonesia"
+
+data_collection:
+  max_videos_per_query: 5
+  max_comments_per_video: 100
+
+model_parameters:
+  svm_kernel: "rbf"
+  svm_C: 1.0
+  svm_gamma: "scale"
+  max_features: 5000
+  ngram_range: [1, 2]
+
+preprocessing:
+  remove_stopwords: true
+  slang_normalization: true
+  positive_keywords: ["hebat", "bagus", "menang"]
+  negative_keywords: ["buruk", "kecewa", "gagal"]

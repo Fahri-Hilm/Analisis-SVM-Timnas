@@ -1,0 +1,9 @@
+text_cleaned,sentiment_auto,like_count,text_length,word_count,positive_score,negative_score,sentiment_score
+"Indonesia memang hebat di piala dunia ini! Bangga sama timnas!",positif,150,64,12,0.8,0.1,0.7
+"Kecewa banget sama timnas, performanya buruk sekali",negatif,20,45,9,0.1,0.9,-0.8
+"Timnas Indonesia harus evaluasi dan belajar dari kegagalan ini",netral,30,66,12,0.5,0.5,0.0
+"PSSI bodoh! Manajemen berantakan, pemain juga payah!",negatif,10,50,10,0.0,1.0,-1.0
+"Tetap semangat dan dukung timnas, pasti bisa lebih baik",positif,200,68,14,0.9,0.2,0.7
+"Biasa aja sih, namanya juga sepakbola ada menang ada kalah",netral,15,70,13,0.4,0.4,0.0
+"Shin Tae-yong strategi terlalu defensif, kurang menyerang",negatif,5,60,11,0.2,0.8,-0.6
+"Luar biasa perjuangan anak bangsa! Salut untuk semua pemain!",positif,300,75,15,1.0,0.0,1.0
