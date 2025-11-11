@@ -1,0 +1,131 @@
+====================================================================================================
+🎯 MULTI-LAYER ANALYTICS - COMPREHENSIVE REPORT
+====================================================================================================
+Generated: 2025-11-11 14:53:43
+Dataset: 3574 comments across 43 videos
+====================================================================================================
+
+📊 1. SENTIMENT ANALYSIS
+----------------------------------------------------------------------------------------------------
+   POSITIF    : 910 comments ( 25.5%) | Avg Confidence: 0.530
+   NETRAL     : 2447 comments ( 68.5%) | Avg Confidence: 0.000
+   NEGATIF    : 217 comments (  6.1%) | Avg Confidence: 0.496
+
+   Low confidence predictions: 3382 (94.6%)
+
+
+😊 2. EMOTION ANALYSIS (Multi-Label)
+----------------------------------------------------------------------------------------------------
+   kecewa          : 2653 mentions ( 74.2% of comments)
+   senang          : 760 mentions ( 21.3% of comments)
+   bangga          : 216 mentions (  6.0% of comments)
+   marah           :  10 mentions (  0.3% of comments)
+   sedih           :   2 mentions (  0.1% of comments)
+
+   Total emotion labels: 3641 (Avg 1.02 per comment)
+
+
+🎯 3. ASPECT ANALYSIS (Multi-Label)
+----------------------------------------------------------------------------------------------------
+   pemain          : 3104 mentions ( 86.8% of comments)
+   pelatih         : 475 mentions ( 13.3% of comments)
+   manajemen       : 217 mentions (  6.1% of comments)
+   PSSI            : 189 mentions (  5.3% of comments)
+   fanbase         :  67 mentions (  1.9% of comments)
+   wasit           :  59 mentions (  1.7% of comments)
+   strategi        :  54 mentions (  1.5% of comments)
+   federasi        :  16 mentions (  0.4% of comments)
+
+   Total aspect labels: 4181 (Avg 1.17 per comment)
+
+
+⚠️  4. TOXICITY ANALYSIS
+----------------------------------------------------------------------------------------------------
+   TOXIC        :  23 comments (  0.6%)
+   NON-TOXIC    : 3551 comments ( 99.4%)
+   Avg toxicity score: 0.186
+
+   ⚡ Top toxic comments (by likes):
+      • "Terima kasih Coach Shin untuk segala jerih payahnya, mari berjalan di ..."
+        Likes: 900 | Score: 0.70 | Aspects: pelatih
+      • "Merinding. final yang luar biasa. Saya kira tadi kita bakalan gagal la..."
+        Likes: 129 | Score: 0.70 | Aspects: pemain
+      • "Alhamdulillah menang dan akan bertemu di final melawan vietnam.
+Indone..."
+        Likes: 101 | Score: 0.70 | Aspects: pemain
+
+
+🔀 5. STANCE ANALYSIS
+----------------------------------------------------------------------------------------------------
+   PRO             : 910 comments ( 25.5%)
+   KONTRA          : 217 comments (  6.1%)
+   TIDAK_JELAS     : 2447 comments ( 68.5%)
+
+
+💬 6. INTENT ANALYSIS
+----------------------------------------------------------------------------------------------------
+   informasi       : 2891 comments ( 80.9%)
+   ajakan          : 406 comments ( 11.4%)
+   pertanyaan      : 204 comments (  5.7%)
+   komplain        :  32 comments (  0.9%)
+   humor           :  30 comments (  0.8%)
+   saran           :  11 comments (  0.3%)
+
+
+🔍 7. CROSS-LAYER INSIGHTS
+----------------------------------------------------------------------------------------------------
+
+   📉 Most criticized aspects:
+      • pemain: 185 negative mentions
+      • pelatih: 37 negative mentions
+      • manajemen: 21 negative mentions
+      • PSSI: 18 negative mentions
+      • wasit: 8 negative mentions
+
+   📈 Most praised aspects:
+      • pemain: 820 positive mentions
+      • pelatih: 140 positive mentions
+      • manajemen: 40 positive mentions
+      • PSSI: 30 positive mentions
+      • strategi: 25 positive mentions
+
+   🔥 Highest engagement comments:
+      • 4565 likes | netral | kecewa
+        "Siapa yg nonton berulang2 video ini acung jempol donk......"
+      • 2791 likes | netral | kecewa
+        "Yang gabut nonton 2021 like😂..."
+      • 2634 likes | positif | bangga
+        "Selamat Garuda Muda, perjuangan kalian LUAR BIASA!..."
+      • 2280 likes | positif | senang
+        "yg bikin gwa terharu rata2 hampir semua pemain timnas berasal dari kel..."
+      • 2260 likes | netral | kecewa
+        "Sudah saatnya STADION GELORA DELTA SIDOARJO  di renovasi besar2an bert..."
+
+
+💡 8. ACTIONABLE RECOMMENDATIONS
+----------------------------------------------------------------------------------------------------
+
+   🎯 PRIORITY ACTIONS:
+      1. Address 217 negative comments (6.1%)
+         Top concerns: pemain, pelatih, manajemen
+
+      2. Respond to 204 questions from fans
+
+      3. Review 32 constructive complaints
+         (Filter out 23 toxic comments)
+
+   📢 COMMUNICATION STRATEGY:
+      • Emphasize positive aspects: pemain, pelatih, manajemen
+      • Engage with 204 questions proactively
+      • Moderate 23 toxic comments
+
+   🤝 COMMUNITY ENGAGEMENT:
+      • 406 supportive 'ajakan' posts - amplify these!
+      • 910 positive comments - showcase fan loyalty
+
+   ⚡ CRISIS INDICATORS:
+      ✅ Sentiment levels manageable
+
+====================================================================================================
+END OF REPORT
+====================================================================================================

@@ -1,13 +1,15 @@
 api_keys:
-  youtube: "YOUR_YOUTUBE_API_KEY"
+  youtube: "AIzaSyBivrDwO85C1bjrvZCE52y020V-XtRRgWM"
 
 search_keywords:
-  - "Timnas Indonesia"
-  - "Piala Dunia"
-  - "Sepakbola Indonesia"
+  - "Timnas Indonesia Piala Dunia"
+  - "Indonesia vs Thailand"
+  - "Shin Tae Yong"
+  - "PSSI Timnas"
+  - "Kualifikasi Piala Dunia Indonesia"
 
 data_collection:
-  max_videos_per_query: 5
+  max_videos_per_query: 10
   max_comments_per_video: 100
 
 model_parameters:

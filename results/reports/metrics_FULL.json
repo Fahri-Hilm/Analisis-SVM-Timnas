@@ -1,0 +1,64 @@
+{
+  "dataset": {
+    "total_comments": 3574,
+    "total_videos": 43,
+    "avg_text_length": 103.31869054280918,
+    "avg_word_count": 12.280078343592614
+  },
+  "sentiment": {
+    "positif": 910,
+    "netral": 2447,
+    "negatif": 217,
+    "avg_confidence": 0.1651744077597463,
+    "low_confidence_count": 3382
+  },
+  "emotions": {
+    "kecewa": 2653,
+    "senang": 760,
+    "bangga": 216,
+    "marah": 10,
+    "sedih": 2
+  },
+  "aspects": {
+    "pemain": 3104,
+    "manajemen": 217,
+    "pelatih": 475,
+    "PSSI": 189,
+    "wasit": 59,
+    "strategi": 54,
+    "fanbase": 67,
+    "federasi": 16
+  },
+  "toxicity": {
+    "toxic": 23,
+    "non_toxic": 3551,
+    "avg_score": 0.1862534974818131
+  },
+  "stance": {
+    "tidak_jelas": 2447,
+    "pro": 910,
+    "kontra": 217
+  },
+  "intent": {
+    "informasi": 2891,
+    "ajakan": 406,
+    "pertanyaan": 204,
+    "komplain": 32,
+    "humor": 30,
+    "saran": 11
+  },
+  "top_negative_aspects": {
+    "pemain": 185,
+    "pelatih": 37,
+    "manajemen": 21,
+    "PSSI": 18,
+    "wasit": 8
+  },
+  "top_positive_aspects": {
+    "pemain": 820,
+    "pelatih": 140,
+    "manajemen": 40,
+    "PSSI": 30,
+    "strategi": 25
+  }
+}
